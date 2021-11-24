@@ -10,3 +10,8 @@ void functionA(){
 
 	printf ("%s\n", "i need to change my code");
 }
+
+void functionB(){
+
+	printf ("%s\n", "i need to change my code");
+}
