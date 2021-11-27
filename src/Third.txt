@@ -1,2 +1,5 @@
 This is my second file
 I need change you
+how should i jump to last line?
+ok just like this !
+
