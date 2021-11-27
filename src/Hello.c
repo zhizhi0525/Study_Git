@@ -1,5 +1,6 @@
 #include "hello.h"
 #include <stdio.h>
+#incldue <math.h>
 
 void main(){
     printf("%s\n", "This is my git study file.");
